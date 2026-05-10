@@ -1,0 +1,16 @@
+name: llm-intro
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - ipykernel
+  - jupyterlab
+  - notebook
+  - matplotlib
+  - numpy
+  - tqdm
+  - pip:
+      - --index-url https://download.pytorch.org/whl/cpu
+      - --ignore-installed
+      - torch==2.6.0

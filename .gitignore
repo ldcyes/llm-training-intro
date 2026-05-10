@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db
+
+# Conda/local environment artifacts
+.conda/
+.venv/
+env/
+venv/
+
+# Jupyter runtime artifacts
+.jupyter/
+.local/
+
