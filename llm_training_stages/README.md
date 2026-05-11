@@ -10,6 +10,7 @@
 
 - `tiny_llm_training.py`：PyTorch 模型、数据构造、SFT batch、DPO loss、生成函数。
 - `llm_pretrain_sft_postrl_tutorial.ipynb`：Jupyter notebook，按阶段运行实验。
+- `CODE_WALKTHROUGH_ZH.md`：notebook 代码单元逐行解释。
 
 运行方式：
 

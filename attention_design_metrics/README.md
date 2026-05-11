@@ -6,6 +6,7 @@
 
 - `attention_metrics_torch.py`：PyTorch 工具函数和一个 tiny Transformer。
 - `attention_metrics_tutorial.ipynb`：Jupyter 实验 notebook。
+- `CODE_WALKTHROUGH_ZH.md`：notebook 代码单元逐行解释。
 
 运行方式：
 

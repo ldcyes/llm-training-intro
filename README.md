@@ -14,15 +14,19 @@ Author: `liangdacheng / 梁达成`
 - `llm_training_stages/`
   - `llm_pretrain_sft_postrl_tutorial.ipynb`
   - `tiny_llm_training.py`
+  - `CODE_WALKTHROUGH_ZH.md`
 - `attention_design_metrics/`
   - `attention_metrics_tutorial.ipynb`
   - `attention_metrics_torch.py`
+  - `CODE_WALKTHROUGH_ZH.md`
 - `printable_tutorials/`
   - Chinese PDF: `llm_attention_training_tutorial_zh.pdf`
   - English PDF: `llm_attention_training_tutorial_en.pdf`
   - Bilingual PDF: `llm_attention_training_tutorial_bilingual.pdf`
 - `environment.yml`
   - Conda environment for the intro notebooks.
+- `JUPYTER_DEBUGGING_ZH.md`
+  - Jupyter breakpoints, `%debug`, and variable inspection guide.
 
 ## Quick Start
 
